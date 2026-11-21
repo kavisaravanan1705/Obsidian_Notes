@@ -748,22 +748,22 @@ Later we will learn file handling to preserve student records between program ru
 
 # Quick reference — the syntax you will use most
 
-|Task|Syntax|
-|---|---|
-|Create Student|`new Student(...)`|
-|Add to HashMap|`hash.put(key, student)`|
-|Retrieve|`hash.get(key)`|
-|Check key|`hash.containsKey(key)`|
-|Delete|`hash.remove(key)`|
-|Get all values|`hash.values()`|
-|Loop through values|`for (Student s : hash.values())`|
-|Get name|`s.getName()`|
-|Get reg|`s.getReg()`|
-|Get dept|`s.getDept()`|
-|Get year|`s.getYear()`|
-|Change name|`s.setName("Ravi")`|
-|Change dept|`s.setDept("CSE")`|
-|Change year|`s.setYear(3)`|
-|Loop menu|`while (choice != 6)`|
-|Select operation|`switch(choice)`|
-|Exit case|`case 6:`|
+| Task                | Syntax                            |
+| ------------------- | --------------------------------- |
+| Create Student      | `new Student(...)`                |
+| Add to HashMap      | `hash.put(key, student)`          |
+| Retrieve            | `hash.get(key)`                   |
+| Check key           | `hash.containsKey(key)`           |
+| Delete              | `hash.remove(key)`                |
+| Get all values      | `hash.values()`                   |
+| Loop through values | `for (Student s : hash.values())` |
+| Get name            | `s.getName()`                     |
+| Get reg             | `s.getReg()`                      |
+| Get dept            | `s.getDept()`                     |
+| Get year            | `s.getYear()`                     |
+| Change name         | `s.setName("Ravi")`               |
+| Change dept         | `s.setDept("CSE")`                |
+| Change year         | `s.setYear(3)`                    |
+| Loop menu           | `while (choice != 6)`             |
+| Select operation    | `switch(choice)`                  |
+| Exit case           | `case 6`                          |

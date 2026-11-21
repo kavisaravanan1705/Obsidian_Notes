@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPS/Revision Chart - From Basics to Student Management System.md",
+                "file": "OOPS/Revise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revision Chart - From Basics to Student Management System"
+              "title": "Revise"
             }
           },
           {
@@ -205,13 +205,23 @@
               "icon": "lucide-list",
               "title": "Outline of Queue Implementation using stack"
             }
+          },
+          {
+            "id": "d445d5b1a0d54f4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +237,10 @@
   },
   "active": "223bb47f1835e27d",
   "lastOpenFiles": [
-    "SQL/09  Foreign Key in MySQL.md",
+    "OOPS/Revise.md",
     "OOPS/Revision Chart - From Basics to Student Management System.md",
+    "Ranking Within Groups.md",
+    "SQL/09  Foreign Key in MySQL.md",
     "SQL/02  Basic Queries.md",
     "SQL/04  Distinct & Order By.md",
     "SQL/03   WHERE Clause & Conditions.md",
@@ -251,8 +263,6 @@
     "OOPS/08  Access Modifier.md",
     "CODING/Untitled 6.md",
     "CODING/Untitled 3.md",
-    "CODING/Untitled 4.md",
-    "CODING/Untitled 5.md",
     "DATA STRUCTURES/SLIDING WINDOW",
     "CODING",
     "Pasted image 20260517214807.png",
