@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "f2283fcdccd14d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7131bb1449f28649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca247f209477343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taxonomies/01. Two Pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Two Pointers"
+            }
+          },
+          {
+            "id": "b08abceb58d64682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taxonomies/01. Two Pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Two Pointers"
+            }
+          },
+          {
+            "id": "223bb47f1835e27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOPS/Revision Chart - From Basics to Student Management System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Revision Chart - From Basics to Student Management System"
+            }
+          },
+          {
+            "id": "ac71475ec64c9d72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "576e38a7b0e95a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "633c44aa18a599d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae87b1886e85d8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eee4aef9a2a13a74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0882049e58ebb576",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd7566f48b612171",
+    "type": "split",
+    "children": [
+      {
+        "id": "59290156e04db7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db8e4843eb797fea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DATA STRUCTURES/QUEUE/Queue Implementation using stack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Queue Implementation using stack"
+            }
+          },
+          {
+            "id": "3f0c053c3072b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DATA STRUCTURES/QUEUE/Queue Implementation using stack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Queue Implementation using stack"
+            }
+          },
+          {
+            "id": "0bada9f75ca91c87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b11f419a579c270",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "978566dae49ed3ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DATA STRUCTURES/QUEUE/Queue Implementation using stack.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Queue Implementation using stack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "223bb47f1835e27d",
+  "lastOpenFiles": [
+    "SQL/09  Foreign Key in MySQL.md",
+    "OOPS/Revision Chart - From Basics to Student Management System.md",
+    "SQL/02  Basic Queries.md",
+    "SQL/04  Distinct & Order By.md",
+    "SQL/03   WHERE Clause & Conditions.md",
+    "SQL/01  Introduction.md",
+    "SQL/Sylabus.md",
+    "SQL/08  Constraints in MySQL.md",
+    "SQL/07  Group By and Having in Sql.md",
+    "SQL/06  Date in SQL.md",
+    "SQL/05  Functions in SQL.md",
+    "CODING/Coding Questions.md",
+    "CODING/hexa.md",
+    "INNER JOIN.md",
+    "OOPS/15  Method Overriding.md",
+    "OOPS/21  Final Keyword.md",
+    "OOPS/09  Setter and Getter Function.md",
+    "OOPS/06  Object Creating.md",
+    "OOPS/22  Super Keyword.md",
+    "OOPS/14  Polymorphism.md",
+    "OOPS/11  Encapsulation.md",
+    "OOPS/08  Access Modifier.md",
+    "CODING/Untitled 6.md",
+    "CODING/Untitled 3.md",
+    "CODING/Untitled 4.md",
+    "CODING/Untitled 5.md",
+    "DATA STRUCTURES/SLIDING WINDOW",
+    "CODING",
+    "Pasted image 20260517214807.png",
+    "Pasted image 20260424182805.png",
+    "Mu sigma",
+    "DATA STRUCTURES/GRAPH",
+    "OPERATING SYSTEM",
+    "Taxonomies",
+    "TCS PREPARATION",
+    "SQL",
+    "Pasted image 20260424182809.png",
+    "SPRING BOOT",
+    "LEARNING OF REACT JS/Screenshot 2026-04-08 021714.png",
+    "Pasted image 20260413054118.png",
+    "Pasted image 20260413053943.png",
+    "oose"
+  ]
+}
