@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPS/Revise.md",
+                "file": "AI Essentials/14. Updated in AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revise"
+              "title": "14. Updated in AI"
             }
           },
           {
@@ -237,8 +237,26 @@
   },
   "active": "223bb47f1835e27d",
   "lastOpenFiles": [
-    "OOPS/Revise.md",
+    "AI Essentials/13. Getting Started with AI Tools.md",
+    "AI Essentials/12. Future of AI.md",
+    "AI Essentials/11. AI Ethics and Concerns.md",
+    "AI Essentials/10. AI in Everyday Product.md",
+    "AI Essentials/9. AI for Audio and Video.md",
+    "AI Essentials/14. Updated in AI.md",
+    "AI Essentials/8. AI for Image.md",
+    "AI Essentials/7. AI for Text.md",
+    "AI Essentials/6. AI Tools.md",
+    "AI Essentials/5. About LLM.md",
+    "Pasted image 20261122195205.png",
+    "AI Essentials/4. Types of AI.md",
+    "AI Essentials/3. How AI actually Work.md",
+    "AI Essentials/2. History of AI.md",
+    "AI Essentials/1.Introduction.md",
     "OOPS/Revision Chart - From Basics to Student Management System.md",
+    "AI Essentials",
+    "OOPS/18  Interface.md",
+    "OOPS/02  Void Vs Return.md",
+    "OOPS/Revise.md",
     "Ranking Within Groups.md",
     "SQL/09  Foreign Key in MySQL.md",
     "SQL/02  Basic Queries.md",
@@ -247,22 +265,6 @@
     "SQL/01  Introduction.md",
     "SQL/Sylabus.md",
     "SQL/08  Constraints in MySQL.md",
-    "SQL/07  Group By and Having in Sql.md",
-    "SQL/06  Date in SQL.md",
-    "SQL/05  Functions in SQL.md",
-    "CODING/Coding Questions.md",
-    "CODING/hexa.md",
-    "INNER JOIN.md",
-    "OOPS/15  Method Overriding.md",
-    "OOPS/21  Final Keyword.md",
-    "OOPS/09  Setter and Getter Function.md",
-    "OOPS/06  Object Creating.md",
-    "OOPS/22  Super Keyword.md",
-    "OOPS/14  Polymorphism.md",
-    "OOPS/11  Encapsulation.md",
-    "OOPS/08  Access Modifier.md",
-    "CODING/Untitled 6.md",
-    "CODING/Untitled 3.md",
     "DATA STRUCTURES/SLIDING WINDOW",
     "CODING",
     "Pasted image 20260517214807.png",
@@ -277,7 +279,6 @@
     "SPRING BOOT",
     "LEARNING OF REACT JS/Screenshot 2026-04-08 021714.png",
     "Pasted image 20260413054118.png",
-    "Pasted image 20260413053943.png",
-    "oose"
+    "Pasted image 20260413053943.png"
   ]
 }
