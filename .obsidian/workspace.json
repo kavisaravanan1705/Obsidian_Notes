@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.7113037109375
   },
   "right": {
     "id": "bd7566f48b612171",
@@ -235,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "223bb47f1835e27d",
+  "active": "ae87b1886e85d8f7",
   "lastOpenFiles": [
     "AI Essentials/13. Getting Started with AI Tools.md",
     "AI Essentials/12. Future of AI.md",
